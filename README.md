@@ -8,10 +8,10 @@ Comparing the stock index of 23 countries (using MSCI data) against both the U.S
 - **Conclusion**: Some OECD countries do exhibit statistically significant long-term stationarity with the USA and UK, especially Hong Kong. France, Germany, Belgium, and Norway are stationary with the UK. 
 ---
 ### Country MSCI Index vs. USA Index
-- **red = USA market, black = country**
+- **red = USA MSCI stock index**
 ![Prices vs. USA](./imgs/pic_vs_usa.JPG)
 ### Country MSCI Index vs. UK Index
-- **red = USA market, black = country**
+- **red = USA MSCI stock index**
 ![Prices vs. UK](./imgs/pic_vs_uk.JPG)
 ### Statistical Tests for Country MSCI Index vs. USA Index
 - **shows that the US market is stationary with Hong Kong, Norway, the UK, and France**
