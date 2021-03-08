@@ -1,6 +1,6 @@
 ## Studying the Stationarity of Relative Stock Prices
+Comparing the stock index of 23 countries (using MSCI data) against both the U.S. and U.K. stock indices  
 ![Prices vs. UK front image](./imgs/pic_vs_uk_small.jpg)  
-Comparing the stock index of 23 countries (using MSCI data) against both the U.S. and U.K. stock indices
 - **Goal**: determine whether the country's stock index is mean reverting relative to the US or UK (that is, large price divergences from each other are temporary)
 - **Methodology**: Test connection between 23 OECD countries to both USA and UK, using Augmented Dickey-Fuller (linear) and ESTAR (nonlinear) unit root tests with only one lag variable.
   - the test for stationarity is a t-test on the fitted model's coefficient using t-value tables from Balvers et al. and Kapetanios et al., respectively
